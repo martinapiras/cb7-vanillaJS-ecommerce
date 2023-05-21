@@ -1,7 +1,10 @@
 # cb7-vanillaJS-ecommerce
 Project for Edgemony Coding Bootcamp 7
 
-To log-in and see the site, use these credentials:
+Live demo:
+> https://martinapiras.github.io/cb7-vanillaJS-ecommerce/
+
+To log-in and see the site, use the following credentials:
 > username: `edelgard`
 > password: `bl4ckeagles`
 
