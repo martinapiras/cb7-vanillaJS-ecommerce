@@ -1,28 +1,8 @@
 import {
-  heroImages,
-  heroEl,
-  heroContentEl,
-  heroTitleEl,
-  heroButtonEl,
-  allImages,
-  currentImage,
-  totalImages,
   productsEl,
-  modalEl,
-  productsObj,
-  userSearch,
-  searchbarEl,
-  categoryFilter,
-  categoryChoice,
-  priceFilter,
-  priceChoice,
-  ratingFilter,
-  ratingChoice,
   cartItems,
   cartBtnEl,
   cartModalWrapperEl,
-  hamburgerMenuEl,
-  hamburgerMenuIconEl,
 } from "./script.js";
 
 import userData from "./credentials.js";
